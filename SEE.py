@@ -9,9 +9,10 @@ from sklearn.preprocessing import StandardScaler
 """
 ADDITIONAL TASK:
 
-Create a callable function in each step. 
-Check if these callable function has the same result 
+✅ Create a callable function in each step. 
+✅ Check if these callable function has the same result 
 (and insights) with your Jupyter Notebook.
+ 
 """
 
 
